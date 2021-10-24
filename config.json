@@ -1,0 +1,8 @@
+{
+    "TOKEN_DISCORD": "",
+    "GOOGLE_KEY": "",
+    "PREFIX": "!",
+    "YTDL": {
+        "filter": "audioonly"
+    }
+}
